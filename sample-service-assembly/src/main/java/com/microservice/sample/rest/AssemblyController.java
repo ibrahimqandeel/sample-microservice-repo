@@ -12,7 +12,6 @@ import com.microservice.sample.client.SampleServiceTwoProxy;
 
 @RestController
 @RefreshScope
-@ComponentScan("com.microservice")
 public class AssemblyController {
 
 	@Autowired
