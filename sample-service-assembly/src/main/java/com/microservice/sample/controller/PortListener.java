@@ -1,4 +1,4 @@
-package com.microservice.sample.rest;
+package com.microservice.sample.controller;
 
 import org.springframework.boot.web.servlet.context.ServletWebServerInitializedEvent;
 import org.springframework.context.ApplicationListener;
